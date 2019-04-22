@@ -1,2 +1,2 @@
-# playing
-Just for mucking around &amp; fun stuff
+# Playground
+Marco's place for mucking around &amp; fun stuff
